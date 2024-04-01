@@ -74,7 +74,7 @@ public class CallService extends InCallService {
         call.registerCallback(CallManager.callback);
 
 
-        call_state = call.getDetails().getState();
+        call_state = call.getState();
 
         CallManager.HP_CALL_STATE = call_state;
 

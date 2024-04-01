@@ -276,7 +276,7 @@ public class CallActivity extends AppCompatActivity {
             holdBtn.setEnabled(true);
             holdBtn.setClickable(true);
 
-            if (CallListHelper.callList.get(CallManager.NUMBER_OF_CALLS - 1).getDetails().getState() == Call.STATE_HOLDING){
+            if (CallListHelper.callList.get(CallManager.NUMBER_OF_CALLS - 1).getState() == Call.STATE_HOLDING){
                 holdBtn.setCompoundDrawableTintList(ColorStateList.valueOf(getColor(R.color.feature_on_color)));
                 holdBtn.setTextColor(getColor(R.color.feature_on_color));
             }

@@ -1,0 +1,16 @@
+
+	java:S116"URename this field "call_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¶ÕZJ$1925c80a-21e8-4852-9ed2-37e7f75db010
+e
+java:S16591")Declare "muteBtnName" on a separate line.(¡‡ÒÊJ$6b881bcd-8c6f-4e10-9483-7f61dff55e39
+w
+java:S2696E"6Make the enclosing method "static" or remove this set.(¡¦ˆ¦úÿÿÿÿJ$341f7481-1915-4bb1-9eea-6b96ed2fb4bf
+q
+java:S2696F"6Make the enclosing method "static" or remove this set.(¾÷š9J$62e672b2-f282-4925-88e6-2552cc686228
+M
+java:S1874M"0Remove this use of "getState"; it is deprecated.(»´Ú8Á…÷Ãé1
+w
+java:S2696O"6Make the enclosing method "static" or remove this set.(Æ¼¨³øÿÿÿÿJ$ccddbf07-1d3c-4741-bbcc-d64def1afe6a
+
+java:S1155g">Use isEmpty() to check whether the collection is empty or not.(Ä÷ˆ´ýÿÿÿÿJ$0cd5d72c-869e-43f3-95ff-16f5fa13af74
+~
+java:S2696j"6Make the enclosing method "static" or remove this set.(ÒÑ§÷ýÿÿÿÿ8ÐŸìÃé1J$a8c01488-8f92-4053-a5a9-097cfe322109

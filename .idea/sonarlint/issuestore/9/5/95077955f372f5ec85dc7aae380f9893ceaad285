@@ -1,0 +1,174 @@
+
+…
+java:S1192x"IDefine a constant instead of duplicating this literal "01:12:00" 7 times.(ãõøJ$ccd8970b-da24-4f7f-8aa6-947e6f137838
+Œ
+java:S11928"KDefine a constant instead of duplicating this literal "Speaker On" 3 times.(Æ¼ÅûÿÿÿÿJ$0d6f72b1-c182-43bb-92c2-613061c98c78
+‰
+java:S1192S"NDefine a constant instead of duplicating this literal "call_answered" 3 times.(ùÔJ$06feae40-5fe1-43d6-a061-34fef0e2fd98
+ˆ
+java:S1192h"GDefine a constant instead of duplicating this literal "Unmute" 4 times.(Íá²šıÿÿÿÿJ$a1d5fddb-a30c-459e-9cea-96e76107920d
+l
+java:S1066Ö"/Merge this if statement with the enclosing one.( Ù¨J$e4837517-2c0e-4467-ab97-7f88832edbe2
+’	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶îØùÿÿÿÿJ$f1565543-2b5c-4c89-917c-af99dadc91f2
+
+java:S11044"SMake isMuted a static final constant or non-public and provide accessors if needed.(Ãï¾J$bb493632-cef1-44c3-9da9-b67bf817a4db
+“
+java:S11044"WMake isSpeakerOn a static final constant or non-public and provide accessors if needed.(Ãï¾J$7ad16771-0885-4adf-9fa6-b3a4ce77c554
+”
+java:S11044"XMake isCallOnHold a static final constant or non-public and provide accessors if needed.(Ãï¾J$1ed4a262-a9bd-42bc-a0a2-fb6eaeec4291
+—
+java:S11044"[Make isRecordingCall a static final constant or non-public and provide accessors if needed.(Ãï¾J$2f10cc51-7989-4bd6-bd0d-b51161cfb93a
+™
+java:S11046"XMake PHONE_NUMBER a static final constant or non-public and provide accessors if needed.(”ºñ³ıÿÿÿÿJ$60bef981-b3b2-4e20-adf8-ea7980f5d4b1
+˜
+java:S11046"WMake CALLER_NAME a static final constant or non-public and provide accessors if needed.(”ºñ³ıÿÿÿÿJ$d1af1305-22a8-46b4-a76b-113a556a0a15
+˜
+java:S11048"WMake muteBtnName a static final constant or non-public and provide accessors if needed.(Æ¼ÅûÿÿÿÿJ$c2e192b3-f443-4a95-920e-51a9279d053c
+›
+java:S11048"ZMake speakerBtnName a static final constant or non-public and provide accessors if needed.(Æ¼ÅûÿÿÿÿJ$36969c0d-107c-41df-b60b-f8c96b7d0f3c
+i
+java:S1444#"-Make this "public static muteBtn" field final(íÎŞòJ$0c78af79-108f-416e-b9ac-613bf65b8dda
+k
+java:S1444#"/Make this "public static keypadBtn" field final(íÎŞòJ$3a3db04f-1d38-40fd-96eb-a5e463482be6
+l
+java:S1444#"0Make this "public static speakerBtn" field final(íÎŞòJ$48ac24e3-4bf0-4a42-9a24-11275b9bb951
+i
+java:S1444#"-Make this "public static holdBtn" field final(íÎŞòJ$a7e730dd-44c2-46f3-851f-0d07e3cd3d27
+k
+java:S1444#"/Make this "public static recordBtn" field final(íÎŞòJ$deeac003-1474-476e-9054-b99e744d6c44
+l
+java:S1444#"0Make this "public static addCallBtn" field final(íÎŞòJ$d6db93b6-97d9-42f9-a071-c48f82f3c4c7
+n
+java:S1444#"2Make this "public static mergeCallBtn" field final(íÎŞòJ$8d4a3b79-c1f6-4a76-9287-b5595a910d4c
+n
+java:S1444-"2Make this "public static callerNameTV" field final(ÀÜ”ÓJ$d4e13d2b-2e46-430d-a76b-83846f56f4f2
+u
+java:S1444-"9Make this "public static callerPhoneNumberTV" field final(ÀÜ”ÓJ$9bbcf0c8-d7f5-4497-bac7-bcacd949d845
+p
+java:S1444-"4Make this "public static callDurationTV" field final(ÀÜ”ÓJ$7849b94e-0c8b-409c-8b13-2516b944c690
+q
+java:S1444-"5Make this "public static callingStatusTV" field final(ÀÜ”ÓJ$6e6937ce-b25b-4b12-83fb-245a1d80ddaa
+}
+java:S14440"AMake this "public static incomingCallerPhoneNumberTV" field final(¡ášğJ$fb2902ad-fe7c-4cf5-bf18-390f16544117
+v
+java:S14440":Make this "public static incomingCallerNameTV" field final(¡ášğJ$3c78b7d4-fcb1-4391-9e81-97a0bb91ef37
+q
+java:S14440"5Make this "public static ringingStatusTV" field final(¡ášğJ$159b763c-7e7b-4711-b099-e1a11d58770f
+i
+java:S14444"-Make this "public static isMuted" field final(Ãï¾J$9116d099-222d-4b2e-ada0-f47597bc3d85
+m
+java:S14444"1Make this "public static isSpeakerOn" field final(Ãï¾J$c4f271e5-11dc-4a22-b17f-da9f67de95cd
+n
+java:S14444"2Make this "public static isCallOnHold" field final(Ãï¾J$834d0423-e530-472c-92c5-4d8f74dd90ab
+q
+java:S14444"5Make this "public static isRecordingCall" field final(Ãï¾J$ee35e765-ab66-41f4-a838-b2a6c8f28b93
+s
+java:S14446"2Make this "public static PHONE_NUMBER" field final(”ºñ³ıÿÿÿÿJ$5f2cd2f7-cdc8-44b5-8239-d820b04a8f87
+r
+java:S14446"1Make this "public static CALLER_NAME" field final(”ºñ³ıÿÿÿÿJ$ec6ebffe-25af-4769-918e-f038e6af29ca
+r
+java:S14448"1Make this "public static muteBtnName" field final(Æ¼ÅûÿÿÿÿJ$8594456e-c26a-4f4e-b23e-726626fad10a
+u
+java:S14448"4Make this "public static speakerBtnName" field final(Æ¼ÅûÿÿÿÿJ$8030fa66-9402-4e9b-83af-09fc5197bf15
+˜
+java:S30086"WRename this field "PHONE_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ºñ³ıÿÿÿÿJ$b203669e-3100-4159-a795-10fdb1e37915
+—
+java:S30086"VRename this field "CALLER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ºñ³ıÿÿÿÿJ$48ce15bb-66b6-4bd2-95df-61bce2f76529
+‚
+java:S1659#"FDeclare "keypadBtn" and all following declarations on a separate line.(íÎŞòJ$0f559265-7848-4ff6-abe3-65ebb7cf58ad
+l
+java:S1659%"+Declare "callRejectBtn" on a separate line.(çúáÑıÿÿÿÿJ$7792b57c-1084-4421-baf5-88ba1fced4e9
+}
+java:S1659'"BDeclare "btn01" and all following declarations on a separate line.(Â¬¤sJ$b086d3bc-0fc0-48f6-96e6-5dac01d56faf
+Œ
+java:S1659-"PDeclare "callerPhoneNumberTV" and all following declarations on a separate line.(ÀÜ”ÓJ$fada7820-b8c2-4e1f-9c22-2fdd3f6b053f
+
+java:S16590"QDeclare "incomingCallerNameTV" and all following declarations on a separate line.(¡ášğJ$e8fa240f-5874-4691-80f5-0b277195a217
+h
+java:S16592",Declare "incomingRLView" on a separate line.(Ãâ¥çJ$03a89ce6-6506-4a98-819a-b69811ac571f
+„
+java:S16594"HDeclare "isSpeakerOn" and all following declarations on a separate line.(Ãï¾J$77981996-3a61-4536-ae4c-ae8b7a060a4c
+j
+java:S16596")Declare "CALLER_NAME" on a separate line.(”ºñ³ıÿÿÿÿJ$2a4e0396-c6e0-4971-aa06-9f68f2a9d2c8
+m
+java:S16598",Declare "speakerBtnName" on a separate line.(Æ¼ÅûÿÿÿÿJ$e57d493c-a987-4aaf-9ff8-1bab75276888
+“
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(¨ŒşÿÿÿÿJ$75cdb68e-7d5b-4e1a-bd26-6dfc56990af2
+r
+java:S2696Y"6Make the enclosing method "static" or remove this set.(÷¨ïúJ$f5105124-a4f2-4378-9be1-5f5e10c40431
+r
+java:S2696Z"6Make the enclosing method "static" or remove this set.(·•ˆJ$2651430a-6d55-48e2-a7e9-edad2bbf55fd
+w
+java:S2696]"6Make the enclosing method "static" or remove this set.(åÚ—üÿÿÿÿJ$be9431c7-5f84-41f6-a305-b45ee6e7cc03
+r
+java:S2696^"6Make the enclosing method "static" or remove this set.(İº¤‹J$f548dcd1-cc37-42e3-99cb-add1162b1a68
+w
+java:S2696h"6Make the enclosing method "static" or remove this set.(Íá²šıÿÿÿÿJ$f8b29cf8-b50a-456b-a480-3f1a7b8f258d
+q
+java:S2696k"6Make the enclosing method "static" or remove this set.(ä±´lJ$bf59c887-1b85-4620-afc8-34808a968c70
+w
+java:S2696o"6Make the enclosing method "static" or remove this set.(—ÈÍêıÿÿÿÿJ$5e36e781-b39d-4b8c-af5a-42c672754f21
+w
+java:S2696r"6Make the enclosing method "static" or remove this set.(ô“˜‹úÿÿÿÿJ$6dc5cdcc-a77a-4195-a07b-5fa72d4747e0
+s
+java:S2696®"6Make the enclosing method "static" or remove this set.(€öà¥J$7056ea03-04e0-4cc0-8ff4-fc14c0e37b25
+x
+java:S2696´"6Make the enclosing method "static" or remove this set.(²Ö®‘ıÿÿÿÿJ$30c3709b-5574-4c58-baad-6757666e7ffe
+r
+java:S2696¾"6Make the enclosing method "static" or remove this set.(›±–2J$d4032724-c663-4c9f-b4a5-8cef5a435a2d
+r
+java:S2696Ç"6Make the enclosing method "static" or remove this set.(‘ä³ J$3df74948-0508-4fef-93cd-5b765358883a
+x
+java:S2696Ò"6Make the enclosing method "static" or remove this set.(ËèÌèùÿÿÿÿJ$47b753a1-6ba5-4ee8-8083-0bb864fa9945
+x
+java:S2696Ú"6Make the enclosing method "static" or remove this set.(×ñÕğùÿÿÿÿJ$1790916b-b187-481d-aba6-37a86d98d81d
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ù«µ§J$81a84cda-9de3-49d1-82f2-447e85429d9e
+S
+java:S1874—"0Remove this use of "getState"; it is deprecated.(Ó²ÖĞıÿÿÿÿ8¿ˆúÃé1
+{
+java:S1155¯">Use isEmpty() to check whether the collection is empty or not.(çşúÁJ$baec0b4a-3f50-4cab-b823-4af8ea51db44
+x
+java:S2696±"6Make the enclosing method "static" or remove this set.(åÚ—üÿÿÿÿJ$14bd5f77-ec67-4cdf-9f61-83ac2eec2d58
+s
+java:S2696²"6Make the enclosing method "static" or remove this set.(è¹Û´J$4dcfe3bb-fd8c-4e7b-bacd-35190598c5e8
+{
+java:S1155Ä">Use isEmpty() to check whether the collection is empty or not.(çşúÁJ$8c1df245-2006-409d-827a-8c15227395e7
+x
+java:S2696Æ"6Make the enclosing method "static" or remove this set.(åÚ—üÿÿÿÿJ$b3163895-69a4-49fb-a3f7-f5e34a4dd8ce
+s
+java:S2696Ç"6Make the enclosing method "static" or remove this set.(è¹Û´J$a7f2647f-1026-4a9e-a251-fddfd6947c4c
+s
+java:S2696ß"6Make the enclosing method "static" or remove this set.(µÕ‹¼J$3aa13b2c-3cf1-4032-a7b6-2408a6ea8948
+x
+java:S2696à"6Make the enclosing method "static" or remove this set.(¨­ÂúÿÿÿÿJ$4902d11e-15c4-4f3d-836a-4e421bf7cc0d
+s
+java:S2696á"6Make the enclosing method "static" or remove this set.(ÿ´ùJ$799d81d9-7217-49f3-b2da-271079496841
+s
+java:S2696â"6Make the enclosing method "static" or remove this set.(ŒßˆÍJ$264ac25b-3d02-464e-a3ba-d95c175c33c4
+s
+java:S2696ã"6Make the enclosing method "static" or remove this set.(Ç°ÌÖJ$293eac2a-7289-4ad6-946f-fbb4d2215c28
+s
+java:S2696ä"6Make the enclosing method "static" or remove this set.(ÌŸ×çJ$81ae3787-a504-4dc9-8bfc-6f69bc48bb4b
+s
+java:S2696å"6Make the enclosing method "static" or remove this set.(ëõJ$76fa0efc-a6a7-4811-be1f-5fe246aaecb8
+x
+java:S2696ê"6Make the enclosing method "static" or remove this set.(†»¬×şÿÿÿÿJ$269ee3c4-fc90-44a1-9c6a-a3ce5b65015a
+s
+java:S2696ë"6Make the enclosing method "static" or remove this set.(æı–¦J$568579ad-f508-4dfb-8e44-d80abde2fae5
+x
+java:S2696ì"6Make the enclosing method "static" or remove this set.(×¹ÒÖúÿÿÿÿJ$498b63e8-aa8d-47e8-ac31-e7e23288d3c4
+x
+java:S2696í"6Make the enclosing method "static" or remove this set.(¼£çÃşÿÿÿÿJ$6ac25d56-b66c-4da2-b537-c88f951da6ba
+x
+java:S2696ò"6Make the enclosing method "static" or remove this set.(§Ş¡¤øÿÿÿÿJ$51dde623-316f-4d9f-bfb5-28ebaaef617d
+x
+java:S2696ó"6Make the enclosing method "static" or remove this set.(ÒÖû™ûÿÿÿÿJ$52d3fd7a-9e91-4f11-8879-7cb3da81e76c
+x
+java:S2696ô"6Make the enclosing method "static" or remove this set.(Œ§×òùÿÿÿÿJ$ddd5eee2-78a5-496d-b581-530042a81e59
+
+java:S1874â"=Remove this use of "FLAG_DISMISS_KEYGUARD"; it is deprecated.(û¸ËÿÿÿÿÿJ$14ca2663-c062-4ca2-b9ec-bafc1f7423bd
+z
+java:S1874ã"=Remove this use of "FLAG_SHOW_WHEN_LOCKED"; it is deprecated.(øõİ›J$8e307a12-97dd-4470-90b3-7e5d9e59811a
+}
+java:S1874ä";Remove this use of "FLAG_TURN_SCREEN_ON"; it is deprecated.(éø”øøÿÿÿÿJ$400c0d90-6629-4d01-9a9e-9625ac34576b
